@@ -7,5 +7,6 @@
 <!---
 YannickDurindel/YannickDurindel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-Please Excuse me I haven't posted anything yet, I'm just trying to figure out how to post my codes online, It will be done asap !
+I created a private repository for my own solutions of challenges on https://cryptohack.org/ ; here is my profile : https://cryptohack.org/user/ZKZMSTQHMF/
+I hope you do unederstand that I can't make it public regarding cryptohack, but you can still see my own advancement on the link here  ^ 
 --->
